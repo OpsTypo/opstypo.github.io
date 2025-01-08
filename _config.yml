@@ -79,8 +79,6 @@ footer:
   links:
     - label: "OpsTypo"
       icon: "fab fa-fw fa-x-twitter"
-      #icon: "fab fa-fw fa-x-twitter-square"
-      #<i class="fa-brands fa-x-twitter"></i>
       url: "https://x.com/OpsTypo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
