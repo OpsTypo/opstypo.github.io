@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "..."
+  name   : "residing in memory"
   avatar : "/assets/images/opstypo.jpg"
   bio    : "Cyber Security Engineer"
   links:
