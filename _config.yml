@@ -65,7 +65,7 @@ author:
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://"
-    - label: "X"
+    - label: "OpsTypo"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://x.com/OpsTypo"
     - label: "GitHub"
@@ -77,7 +77,7 @@ author:
     
 footer:
   links:
-    - label: "X"
+    - label: "OpsTypo"
       icon: "fab fa-fw fa-x-twitter"
       #icon: "fab fa-fw fa-x-twitter-square"
       #<i class="fa-brands fa-x-twitter"></i>
