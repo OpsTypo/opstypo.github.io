@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Derick A"
   avatar : "/assets/images/opstypo.jpg"
-  bio    : "Cyber Security Engineer with focus on - Pentest | Red Team | Cloud Security "
+  bio    : "Cyber Security Engineer"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
